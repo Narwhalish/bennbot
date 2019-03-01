@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "code": 201
+  },
+  "response": {
+    "bot": {
+      "name": "testbot",
+      "bot_id": "5e4efc41f85f5a6260878b23d0",
+      "group_id": "48375307",
+      "group_name": "test",
+      "avatar_url": null,
+      "callback_url": null,
+      "dm_notification": false
+    }
+  }
+}

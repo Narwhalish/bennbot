@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "code": 201
+  },
+  "response": {
+    "bot": {
+      "name": "🅱ennBot",
+      "bot_id": "e5d86d4333c6f52329a88821cd",
+      "group_id": "46633207",
+      "group_name": "UPenn ED 2023 ❤️💙",
+      "avatar_url": null,
+      "callback_url": null,
+      "dm_notification": false
+    }
+  }
+}
